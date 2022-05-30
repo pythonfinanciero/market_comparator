@@ -66,7 +66,7 @@ def __download_data(symbol1, symbol2, fromDate, toDate):
         for sym in symbols:
             data[sym] = web.DataReader(sym,'yahoo', start, end)['Adj Close']
 
-        print('---- Data hs been downloaded. Record(s): ' + str(data.size))
+        print('---- Data has been downloaded. Record(s): ' + str(data.size))
 
     except Exception as error:
         print('*** ERROR downloading data: ' + str(error))
