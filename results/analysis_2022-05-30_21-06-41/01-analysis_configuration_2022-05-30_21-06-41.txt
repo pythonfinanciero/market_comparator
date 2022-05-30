@@ -1,6 +1,6 @@
 ANALYSIS CONFIGURATION
 
-timestamp: 2022-05-29_20-21-07
+timestamp: 2022-05-30_21-06-41
 symbol1: SPY
 symbol2: TLT
 fromDate: 2012-01-01
