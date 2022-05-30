@@ -1,0 +1,4 @@
+# months TLT >=0 and SPY >= 0 is: 42
+# months TLT < 0 and SPY < 0 is: 13
+# months TLT >= 0 and SPY < 0 is: 19
+# months TLT < 0 and SPY >= 0 is: 45

@@ -1,0 +1,3 @@
+SPY    32
+TLT    58
+dtype: int64
